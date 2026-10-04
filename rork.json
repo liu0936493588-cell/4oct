@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "Lucky Reels Casino",
+      "path": "web-lucky-reels-casino",
+      "framework": "web"
+    }
+  ],
+  "$schema": "https://rork.com/schema/rork.json"
+}
